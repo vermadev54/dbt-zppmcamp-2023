@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+    - name: staging
+      #For bigquery:
+      database: data-eng-375812
+
+
+      schema: de_zoom_camp
+
+      # loaded_at_field: record_loaded_at
+      tables:
+        - name: fhv_2019_par
+         # freshness:
+           # error_after: {count: 6, period: hour}
