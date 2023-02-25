@@ -18,7 +18,8 @@ A project includes the following files:
 
 
 #### Workflow
-<img width="1307" alt="Screenshot 2023-02-25 at 9 42 35 PM" src="https://user-images.githubusercontent.com/34676681/221367477-b2a358e9-c7f2-432e-a706-b35e0106b7a4.png">
+
+<img width="1299" alt="Screenshot 2023-02-25 at 9 44 16 PM" src="https://user-images.githubusercontent.com/34676681/221367575-d716ff1a-828f-4204-a41d-a43fd986edf9.png">
 
 
 #### Execution
