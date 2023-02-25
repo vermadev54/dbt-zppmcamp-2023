@@ -6,9 +6,14 @@ with trips_data as (
     select 
     -- Reveneue grouping 
     pickup_zone as revenue_zone,
+<<<<<<< HEAD
     date_trunc(pickup_datetime, month) as revenue_month,
     
     --NOTe for local-- date_trunc('month', pickup_datetime) as revenue_month, 
+=======
+    -- date_trunc('month', pickup_datetime) as revenue_month, 
+    date_trunc(pickup_datetime, month) as revenue_month
+>>>>>>> f1fbf055046deed324cc484b37371915ad8e084c
     --Note: For BQ use instead: date_trunc(pickup_datetime, month) as revenue_month, 
 
     service_type, 
