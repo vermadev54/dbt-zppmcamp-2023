@@ -18,7 +18,8 @@ A project includes the following files:
 
 
 #### Workflow
-![image](https://user-images.githubusercontent.com/4315804/148699280-964c4e0b-e685-4c0f-a266-4f3e097156c9.png)
+<img width="1307" alt="Screenshot 2023-02-25 at 9 42 35 PM" src="https://user-images.githubusercontent.com/34676681/221367477-b2a358e9-c7f2-432e-a706-b35e0106b7a4.png">
+
 
 #### Execution
 After having installed the required tools and cloning this repo, execute the following commnads: 
